@@ -4,6 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
+<<<<<<< HEAD
     "content-hash": "43bb2cc2b422491690c96f1136372bb9",
     "packages": [
         {
@@ -396,6 +397,11 @@
             "time": "2026-01-20T09:46:32+00:00"
         },
         {
+=======
+    "content-hash": "c514d8f7b9fc5970bdd94287905ef584",
+    "packages": [
+        {
+>>>>>>> 633ea8654c097225db98d01595d32307691008d5
             "name": "brick/math",
             "version": "0.14.8",
             "source": {
@@ -525,6 +531,7 @@
             "time": "2024-02-09T16:56:22+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "chillerlan/php-qrcode",
             "version": "5.0.5",
             "source": {
@@ -789,6 +796,8 @@
             "time": "2025-02-21T08:52:11+00:00"
         },
         {
+=======
+>>>>>>> 633ea8654c097225db98d01595d32307691008d5
             "name": "dflydev/dot-access-data",
             "version": "v3.0.3",
             "source": {
@@ -1162,6 +1171,7 @@
             "time": "2025-03-06T22:45:56+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "filament/actions",
             "version": "v5.2.1",
             "source": {
@@ -1649,6 +1659,8 @@
             "time": "2026-02-10T13:26:11+00:00"
         },
         {
+=======
+>>>>>>> 633ea8654c097225db98d01595d32307691008d5
             "name": "fruitcake/php-cors",
             "version": "v1.4.0",
             "source": {
@@ -2193,6 +2205,7 @@
             "time": "2025-08-22T14:27:06+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "kirschbaum-development/eloquent-power-joins",
             "version": "4.2.11",
             "source": {
@@ -2256,6 +2269,8 @@
             "time": "2025-12-17T00:37:48+00:00"
         },
         {
+=======
+>>>>>>> 633ea8654c097225db98d01595d32307691008d5
             "name": "laravel/framework",
             "version": "v12.51.0",
             "source": {
@@ -2853,6 +2868,7 @@
             "time": "2022-12-11T20:36:23+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "league/csv",
             "version": "9.28.0",
             "source": {
@@ -2944,6 +2960,8 @@
             "time": "2025-12-27T15:18:42+00:00"
         },
         {
+=======
+>>>>>>> 633ea8654c097225db98d01595d32307691008d5
             "name": "league/flysystem",
             "version": "3.31.0",
             "source": {
@@ -3230,6 +3248,7 @@
             "time": "2026-01-14T17:24:56+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "league/uri-components",
             "version": "7.8.0",
             "source": {
@@ -3314,6 +3333,8 @@
             "time": "2026-01-14T17:24:56+00:00"
         },
         {
+=======
+>>>>>>> 633ea8654c097225db98d01595d32307691008d5
             "name": "league/uri-interfaces",
             "version": "7.8.0",
             "source": {
@@ -3398,6 +3419,7 @@
             "time": "2026-01-15T06:54:53+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "livewire/livewire",
             "version": "v4.1.4",
             "source": {
@@ -3541,6 +3563,8 @@
             "time": "2025-07-25T09:04:22+00:00"
         },
         {
+=======
+>>>>>>> 633ea8654c097225db98d01595d32307691008d5
             "name": "monolog/monolog",
             "version": "3.10.0",
             "source": {
@@ -3749,6 +3773,7 @@
             "time": "2026-01-29T09:26:29+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "nette/php-generator",
             "version": "v4.2.1",
             "source": {
@@ -3821,6 +3846,8 @@
             "time": "2026-02-09T05:43:31+00:00"
         },
         {
+=======
+>>>>>>> 633ea8654c097225db98d01595d32307691008d5
             "name": "nette/schema",
             "version": "v1.3.4",
             "source": {
@@ -4120,6 +4147,7 @@
             "time": "2025-11-20T02:34:59+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "openspout/openspout",
             "version": "v4.28.5",
             "source": {
@@ -4282,6 +4310,8 @@
             "time": "2025-09-24T15:06:41+00:00"
         },
         {
+=======
+>>>>>>> 633ea8654c097225db98d01595d32307691008d5
             "name": "phpoption/phpoption",
             "version": "1.9.5",
             "source": {
@@ -4357,6 +4387,7 @@
             "time": "2025-12-27T19:41:33+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "pragmarx/google2fa",
             "version": "v9.0.0",
             "source": {
@@ -4476,6 +4507,8 @@
             "time": "2021-08-15T12:53:48+00:00"
         },
         {
+=======
+>>>>>>> 633ea8654c097225db98d01595d32307691008d5
             "name": "psr/clock",
             "version": "1.0.0",
             "source": {
@@ -5165,6 +5198,7 @@
             "time": "2025-12-14T04:43:48+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "ryangjchandler/blade-capture-directive",
             "version": "v1.1.0",
             "source": {
@@ -5589,6 +5623,8 @@
             "time": "2026-02-01T09:30:04+00:00"
         },
         {
+=======
+>>>>>>> 633ea8654c097225db98d01595d32307691008d5
             "name": "symfony/clock",
             "version": "v7.4.0",
             "source": {
@@ -6212,6 +6248,7 @@
             "time": "2026-01-26T15:07:59+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "symfony/html-sanitizer",
             "version": "v7.4.0",
             "source": {
@@ -6286,6 +6323,8 @@
             "time": "2025-10-30T13:39:42+00:00"
         },
         {
+=======
+>>>>>>> 633ea8654c097225db98d01595d32307691008d5
             "name": "symfony/http-foundation",
             "version": "v7.4.5",
             "source": {
@@ -8219,6 +8258,7 @@
             "time": "2025-12-02T11:56:42+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "ueberdosis/tiptap-php",
             "version": "2.1.0",
             "source": {
@@ -8288,6 +8328,8 @@
             "time": "2026-01-10T16:40:02+00:00"
         },
         {
+=======
+>>>>>>> 633ea8654c097225db98d01595d32307691008d5
             "name": "vlucas/phpdotenv",
             "version": "v5.6.3",
             "source": {
