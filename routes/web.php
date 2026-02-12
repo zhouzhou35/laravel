@@ -5,7 +5,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
-<<<<<<< HEAD
+
 //Route::get('/test', function () {
 //    \App\Models\User::create([
 //        'name' => 'test',
@@ -15,5 +15,3 @@ Route::get('/', function () {
 //
 //    return 'ok';
 //});
-=======
->>>>>>> 633ea8654c097225db98d01595d32307691008d5
